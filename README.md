@@ -1,2 +1,2 @@
 # Useful_scripts
-Useful things for automating things..!
+Useful scripts for automating things..!
